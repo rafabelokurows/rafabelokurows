@@ -1,5 +1,7 @@
-### - 🔭 Business Analyst Consultant at Minsait, Porto :portugal:
+### - 🔭 Business Intelligence Consultant at Minsait, Porto :portugal:
+Developing BI solutions using Microsoft tools (SSIS, SSAS, SSRS, Power BI)
 ### - 📫 Finishing a Master's Degree in Data Science at the Universidade do Porto - 19/21
+
 Welcome to my GitHub profile. There's not much to see here for now, but soon there will be, thanks for visiting :)
 
 <!--
