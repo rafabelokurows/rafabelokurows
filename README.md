@@ -27,7 +27,6 @@ Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS,
 
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![IBM DB2](https://w7.pngwing.com/pngs/879/229/png-transparent-ibm-db2-logo-ibm-db2-database-computer-software-sql-ibm-text-rectangle-logo-thumbnail.png)
 
 ---
 
