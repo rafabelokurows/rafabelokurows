@@ -2,16 +2,13 @@
 Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS, Power BI...)
 ### - 📫 Finishing a Master's Degree in Data Science at the Universidade do Porto - 19-21
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-belokurows)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" />][facebook]
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rafabelokurows.medium.com/)
-
+[<img align="left" alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
+[<img align="left" alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
+[<img align="left" alt="Rafael Belokurows | Facebook" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" />][facebook]
+[<img align="left" alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]
 
 <br />
 
@@ -53,8 +50,8 @@ Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS,
 [instagram]: https://instagram.com/rafabws
 [linkedin]: https://linkedin.com/in/rafael-belokurows
 [facebook]: https://www.facebook.com/rafael.belokurows
+[medium]: https://rafabelokurows.medium.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
