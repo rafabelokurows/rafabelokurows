@@ -1,4 +1,4 @@
-### - 🧔🏻🖥 Hi, I'm Rafael Belokurows, a Business Intelligence Consultant at Minsait, Porto, Portugal
+### - 🧔🏻🖥 Hi, I'm Rafael Belokurows, a Business Intelligence Consultant at Minsait, Porto, Portugal :portugal:
 Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS, Power BI...)
 ### - 📫 Finishing a Master's Degree in Data Science at the Universidade do Porto - 19-21
 
@@ -17,17 +17,20 @@ Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS,
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/r/r_32x32.png"/>][website]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png"/>][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="Azure ML Studio" width="26px" src="https://i1.wp.com/blog.sysfore.com/wp-content/uploads/2014/12/Machine-Learning.png" />][website]
+[<img align="left" alt="Azure ML Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]  
 
+Also:
+* SSAS, SSIS and SSRS
+* Power BI
+
+#### Databases:
+* Microsoft SQL Server
+* IBM DB2
+* PostgreSQL
 <br />
-<br />
-
-### Databases
-
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -39,10 +42,11 @@ Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS,
 
 ---
 
-### 📕 Visualizations I've created
+### :bar_chart: Recent visualizations I've developed
 
-[<img align="left" alt="Visualization NFL Google searches" width="600px" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>][website]
-[<img align="left" alt="Visualization NFL Google searches" width="250px" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>][website]
+[<img alt="Visualization NFL Google searches" width="75%" height="75%" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>][website]
+[<img alt="Visualization of NFL Google searches" width="75%" height="75%" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>][website]
+[<img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="75%" height="75%">][website]  
 
 ---
 
