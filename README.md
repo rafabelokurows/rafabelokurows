@@ -1,8 +1,9 @@
-### - 🧔🏻🖥 Hi, I'm Rafael Belokurows, a Business Intelligence Consultant at Minsait, Porto, Portugal :portugal:
-Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS, Power BI...)
-### - 📫 Finishing a Master's Degree in Data Science at the Universidade do Porto - 19-21
+🧔🏻🖥 Hi, I'm Rafael Belokurows, a Business Intelligence Consultant at Minsait, living in Porto, Portugal  
+🎓 Master's Degree in Data Science at the Universidade do Porto - 19-21  
+📊 Developing BI solutions using Microsoft stack of technologies (SSIS, SSAS, SSRS, Power BI...)
 
-### Connect with me:
+
+### Connect with me on:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
@@ -31,6 +32,7 @@ Also:
 * IBM DB2
 * PostgreSQL
 <br />
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -38,15 +40,19 @@ Also:
 - [How I used data for choosing my next holiday destination](https://towardsdatascience.com/how-i-used-data-for-choosing-my-next-holiday-destination-21b3519fe995)
 - [Finding satellite images for your Data Science project](https://towardsdatascience.com/finding-satellite-images-for-your-data-science-project-888695361925)
 
-➡️ [more blog posts...](https://rafabelokurows.github.io/)
+➡️ [see more](https://rafabelokurows.github.io/)
 
 ---
 
 ### :bar_chart: Recent visualizations I've developed
 
-[<img alt="Visualization NFL Google searches" width="75%" height="75%" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>][website]
-[<img alt="Visualization of NFL Google searches" width="75%" height="75%" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>][website]
-[<img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="75%" height="75%">][website]  
+<p float="left">
+  <img alt="Visualization NFL Google searches" width="500" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
+  <img alt="Visualization NFL Google searches" width="500" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>
+</p>
+<p float="left">
+  <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="500">
+</p>
 
 ---
 
@@ -55,7 +61,3 @@ Also:
 [linkedin]: https://linkedin.com/in/rafael-belokurows
 [facebook]: https://www.facebook.com/rafael.belokurows
 [medium]: https://rafabelokurows.medium.com/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
