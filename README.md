@@ -24,14 +24,16 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]  
 
 Also:
-* SSAS, SSIS and SSRS
+* Microsoft Analysis and Integration Services
 * Power BI
+* Metabase
+* Flourish
+* Google Data Studio
 
 #### Databases:
 * Microsoft SQL Server
 * IBM DB2
 * PostgreSQL
-<br />
 
 ---
 
