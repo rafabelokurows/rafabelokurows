@@ -52,6 +52,7 @@ Also:
 </p>
 <p float="left">
   <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="400">
+  <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png" width="400">
 </p>
 
 ---
