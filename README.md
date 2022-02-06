@@ -47,11 +47,11 @@ Also:
 ### :bar_chart: Recent visualizations I've developed
 
 <p float="left">
-  <img alt="Visualization NFL Google searches" width="350" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
-  <img alt="Visualization NFL Google searches" width="350" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>
+  <img alt="Visualization NFL Google searches" width="400" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
+  <img alt="Visualization NFL Google searches" width="400" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>
 </p>
 <p float="left">
-  <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="350">
+  <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="400">
 </p>
 
 ---
