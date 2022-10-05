@@ -2,12 +2,12 @@
 📈🖥 Data Analyst at Kantar Worldpanel  
 <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="20" width="33"/>  Originally from Brazil, living in Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="20" width="33" />  
 🎓 Master's Degree in Data Science at Universidade do Porto - 19-21  
-📊 Finding insights, patterns and trends in data using R, SQL, Excel, and Power BI
+📊 Finding insights, patterns and trends in data using R, SQL, Excel, Power BI and Tableau
 
 
 ### Connect with me on:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rafael Belokurows | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img align="left" alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
 [<img align="left" alt="Rafael Belokurows | Facebook" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" />][facebook]
@@ -19,14 +19,16 @@
 
 ### :bar_chart: Recent visualizations I've developed
 
+<div class='tableauPlaceholder' id='viz1664994817549' style='position: relative'><noscript><a href='#'><img alt=' Boston Crime Story 2022Statistics on crime ocurrences with open data obtained from https:&#47;&#47;data.boston.gov&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BostonCrimeStory2022&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US'/></object></div>
 <p float="left">
-  <img alt="Visualization NFL Google searches" width="400" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
-  <img alt="Visualization NFL Google searches" width="400" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>
+  <img alt="Visualization NFL Google searches" height="300" width="400" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
+  <img alt="Visualization NFL Google searches" height="300" width="480" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/>
 </p>
 <p float="left">
   <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="400">
-  <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png" width="400">
+  <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png" height="300" width="480">
 </p>
+
 
 ---
 
@@ -45,12 +47,6 @@
 * Metabase
 * Flourish
 * Google Data Studio
-* Microsoft Analysis and Integration Services
-
-#### Databases:
-* Microsoft SQL Server
-* IBM DB2
-* PostgreSQL
 
 ---
 
