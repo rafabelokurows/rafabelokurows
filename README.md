@@ -1,8 +1,8 @@
 🧔🏻 Rafael Belokurows  
 📈🖥 Data Analyst at Kantar Worldpanel  
 <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="20" width="33"/>  Originally from Brazil, living in Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="20" width="33" />  
-🎓 Master's Degree in Data Science at Universidade do Porto - 19-21  
-📊 Finding insights, patterns and trends in data using R, SQL, Excel, Power BI and Tableau
+🎓 Master's Degree in Data Science from Universidade do Porto - 19-21  
+📊 Finding insights, patterns and trends in data using R, SQL, Python, Excel, Power BI and Tableau
 
 
 ### Connect with me on:
