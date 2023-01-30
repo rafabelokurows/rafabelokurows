@@ -7,7 +7,7 @@
 
 
 Main areas of interest:  
-🌎 Geographical Analyis  
+🌎 Geographical Analysis  
 <img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" /> Web scraping and process automation  
 💹 Finance    
 🌲 Envinroment and Sustainability  
