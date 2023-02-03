@@ -1,6 +1,6 @@
 Hi, I'm **Rafael Belokurows**, welcome to my Github profile
 
-📈 Data Analyst at Kantar Worldpanel since start of '22 🖥  
+📈 Data Analyst at Kantar Worldpanel 🖥  
 🎓 Master's Degree in Data Science from Universidade do Porto - 2019 - 2021  
 📊 Finding insights, patterns and trends in data  
 🔧 R, SQL, Python, Excel, Power BI, Tableau  
@@ -37,7 +37,9 @@ Main areas of interest:
   <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png" height="375" width="600">
 </p>
 
+<!-- 
 ---
+
 
 ### Languages and Tools:
 
@@ -45,7 +47,7 @@ Main areas of interest:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png"/>][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-<!-- [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]   -->
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]   
   
   Also:
 * Excel
@@ -56,6 +58,9 @@ Main areas of interest:
 * Google Data Studio
 
 ---
+-->
+
+
 
 ### 📕 Latest Blog Posts
 
