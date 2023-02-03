@@ -1,7 +1,8 @@
-🧔🏻 Rafael Belokurows  
+Hi, I'm **Rafael Belokurows**, welcome to my Github profile
+
 📈 Data Analyst at Kantar Worldpanel 🖥  
 🎓 Master's Degree in Data Science from Universidade do Porto - 19-21  
-📊 Finding insights, patterns and trends in data 
+📊 Finding insights, patterns and trends in data  
 🔧 R, SQL, Python, Excel, Power BI, Tableau  
 <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="18" width="30"/>  Originally from Brazil, living in Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="18" width="30" />  
 
