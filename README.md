@@ -1,10 +1,10 @@
 Hi, I'm **Rafael Belokurows**, welcome to my Github profile
 
-📈 Data Analyst at Kantar Worldpanel 🖥  
-🎓 Master's Degree in Data Science from Universidade do Porto - 19-21  
+📈 Data Analyst at Kantar Worldpanel since start of '22 🖥  
+🎓 Master's Degree in Data Science from Universidade do Porto - 2019 - 2021  
 📊 Finding insights, patterns and trends in data  
 🔧 R, SQL, Python, Excel, Power BI, Tableau  
-<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="18" width="30"/>  Originally from Brazil, living in Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="18" width="30" />  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="18" width="30"/>  Originally from Brazil, now in Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="18" width="30" />  
 
 
 Main areas of interest:  
@@ -14,7 +14,7 @@ Main areas of interest:
 🌲 Envinroment and Sustainability  
 🏈⚾ Sports 
 
-### Connect with me on:
+### Social:
 
 [<img align="left" alt="Rafael Belokurows | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
