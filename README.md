@@ -24,7 +24,11 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 
 ### 🖥  Data Projects
 
-Under construction: documenting my very best projects to showcase here soon :)
+<p float="left">
+<a href="https://github.com/rafabelokurows/porto-street-gender-bias"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
+
+</p>
+More to be added soon!
 
 ---
 
@@ -47,10 +51,6 @@ Under construction: documenting my very best projects to showcase here soon :)
 <!--<p float="left">-->
   
   
-
-
-
-
 <!-- 
 ---
 
