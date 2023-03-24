@@ -30,9 +30,9 @@ Under construction: documenting my very best projects to showcase here soon :)
 
 ### :bar_chart: Gallery
 <p float="left">
-<img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="280" height="175">
-<img alt="Histórico FC Porto x Benfica" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/PortoBenfica.png" width="280" height="175">
-  <img alt="Visualization NFL Google searches" width="280" height="175" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
+<img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="265" height="200">
+<img alt="Histórico FC Porto x Benfica" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/PortoBenfica.png" width="265" height="200">
+  <img alt="Visualization NFL Google searches" width="265" height="200" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
 </p>
 <p float="left">
   <img alt="Porto Starmap created using R" src="https://user-images.githubusercontent.com/55976107/212323534-8b6ee7c0-25df-4b25-bda0-9b6c80879a10.png" width="185" height="175"><img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="175">
