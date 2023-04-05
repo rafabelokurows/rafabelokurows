@@ -49,6 +49,9 @@ More to be added soon!
   <img alt="Porto Starmap created using R" src="https://github.com/rafabelokurows/staRmaps/blob/main/20230107_Porto_starmap.png" height="404">
   <img alt="Inflation comparison over major US metro areas" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/plot2.png" height="404" width="550">
 </p>
+<p float="left">
+<img alt="Porto Starmap created using R" src="https://user-images.githubusercontent.com/55976107/230203959-3cc322d8-8e8d-49b8-8c72-4396042b8ab8.png" height="258">
+</p>
 <!--   <img alt="Visualization NFL Google searches" height="300" width="480" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/> -->
 <!--<p float="left">-->
   
