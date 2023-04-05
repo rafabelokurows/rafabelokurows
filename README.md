@@ -26,7 +26,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/rafabelokurows/porto-street-gender-bias/master/Gender%20Bias%20in%20Street%20Naming%20in%20Porto.pptx"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
-
+<a href="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/flight-explorer-cover.png" width="370" ></a>
 </p>
 More to be added soon!
 
@@ -39,7 +39,7 @@ More to be added soon!
   <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200">
 </p>
 <p float="left">
-  <img alt="Skeychy-looking map done using R" src="https://user-images.githubusercontent.com/55976107/212323534-8b6ee7c0-25df-4b25-bda0-9b6c80879a10.png" width="195" height="200">
+  <img alt="Sketchy-looking map done using R" src="https://user-images.githubusercontent.com/55976107/212323534-8b6ee7c0-25df-4b25-bda0-9b6c80879a10.png" width="195" height="200">
   <img alt="Map Variation Inflation from last year" width="345" height="200" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/map2.png"/>
   <img alt="Visualization NFL Google searches" width="280" height="200" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
 </p>
