@@ -25,7 +25,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 ### 🖥  Data Projects
 
 <p float="left">
-<a href="https://github.com/rafabelokurows/porto-street-gender-bias"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
+<a href="https://raw.githubusercontent.com/rafabelokurows/porto-street-gender-bias/master/Gender%20Bias%20in%20Street%20Naming%20in%20Porto.pptx"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
 
 </p>
 More to be added soon!
@@ -36,11 +36,12 @@ More to be added soon!
 <p float="left">
 <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="265" height="200">
 <img alt="Histórico FC Porto x Benfica" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/PortoBenfica.png" width="265" height="200">
-  <img alt="Visualization NFL Google searches" width="265" height="200" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
+  <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200">
 </p>
 <p float="left">
-  <img alt="Porto Starmap created using R" src="https://user-images.githubusercontent.com/55976107/212323534-8b6ee7c0-25df-4b25-bda0-9b6c80879a10.png" width="185" height="200">
-  <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200">
+  <img alt="Skeychy-looking map done using R" src="https://user-images.githubusercontent.com/55976107/212323534-8b6ee7c0-25df-4b25-bda0-9b6c80879a10.png" width="195" height="200">
+  <img alt="Map Variation Inflation from last year" width="345" height="200" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/map2.png"/>
+  <img alt="Visualization NFL Google searches" width="280" height="200" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
 </p>
 
 <div class='tableauPlaceholder' id='viz1664994817549' style='position: relative'><noscript><a href='#'><img alt=' Boston Crime Story 2022Statistics on crime ocurrences with open data obtained from https:&#47;&#47;data.boston.gov&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1_rss.png' width="750" style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BostonCrimeStory2022&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US'/></object></div>
