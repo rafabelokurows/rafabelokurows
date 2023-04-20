@@ -39,7 +39,6 @@ More to be added soon!
   <img alt="Map Variation Inflation from last year" width="345" height="200" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/map2.png"/>
   <img alt="Visualization NFL Google searches" width="280" height="200" src="https://miro.medium.com/max/1125/1*jIIkK1AUn-x6F3Z1y7BWoQ.png"/>
 </p>
-
 <p float="left">
   <img alt="Porto Starmap created using R" src="https://github.com/rafabelokurows/staRmaps/blob/main/20230107_Porto_starmap.png" height="404">
   <img alt="Inflation comparison over major US metro areas" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/plot2.png" height="404" width="550">
@@ -48,9 +47,9 @@ More to be added soon!
 <img alt="Game of Thrones IMDB reviews" src="https://user-images.githubusercontent.com/55976107/230203959-3cc322d8-8e8d-49b8-8c72-4396042b8ab8.png" height="275">
 <img alt="Ryanair domination" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/top%205%20airlines.jpg"width="540" height="275"></p>
 <p float="left">
-<img alt="Europe gender pay gap" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/gender%20pay%20gap%20europe.jpg" height="270" width="470">
-<img alt="Brazil endangered languages" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/Brazil%20endangered%20languages.jpg" height="270">
-</p><p float="left">
+<img alt="Europe gender pay gap" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/gender%20pay%20gap%20europe.jpg" height="288" width="450">
+<img alt="Brazil endangered languages" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/Brazil%20endangered%20languages.jpg" height="288" height="250">
+</p> <p float="left">
 <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="265" height="200">
 <img alt="Histórico FC Porto x Benfica" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/PortoBenfica.png" width="265" height="200">
   <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200">
