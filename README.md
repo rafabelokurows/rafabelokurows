@@ -60,7 +60,7 @@ More to be added soon!
 <!--   <img alt="Visualization NFL Google searches" height="300" width="480" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/> -->
 <!--<p float="left">-->
   
-  
+![](https://komarev.com/ghpvc/?username=rafabelokurows)
 <!-- 
 ---
 
