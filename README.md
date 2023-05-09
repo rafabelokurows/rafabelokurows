@@ -5,22 +5,21 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 🔧 R, SQL, Python, Excel, Power BI, Tableau  
 <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="12" width="20"/>  Brazil -> Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />   
 
-### Main Areas of interest  
+### Main Areas of Interest  
 🛒 Consumer trends, Market basket analysis, Customer Segmentation  
 📊 Product usability metrics, A/B tests  
 💹 Time Series Analysis and Forecasting  
-🌎 Geographical Models  
+🌎 Geographical Models, Transport and Urban Planning  
 🌲 Envinroment, Climate Change, and Sustainability   
 <img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" /> Web scraping and process automation  
-🏈 Football, Baseball, and other sports  
+🏈 Football, Baseball, Soccer  
 ⚖ ML interpretability with focus on fairness and equality
 
 ### I'm also on
 [<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
-[<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
 [<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
+[<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
 [<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
-[<img alt="Rafael Belokurows | Facebook" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" />][facebook]
 [<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
 
 ### Current Activities
