@@ -22,7 +22,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 [<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
 [<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
 
-### Current Activities
+### Currently working on
 - MLOps
 - Creating model for predicting winners at MLB games
 - Portfolio overhaul  
