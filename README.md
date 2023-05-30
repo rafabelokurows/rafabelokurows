@@ -33,8 +33,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/rafabelokurows/porto-street-gender-bias/master/Gender%20Bias%20in%20Street%20Naming%20in%20Porto.pptx"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
-<a href="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/flight-explorer-cover.png" width="370" ></a>
-</p>
+<a href="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/flight-explorer-cover.png" width="370" ></a></p>
 <p float="left">
 <a href="https://github.com/rafabelokurows/data-analyst-job-skills/blob/main/Data%20Analyst%20Job%20Tracker%20-%20results%203005.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/data-analyst-job-skills/main/data-analyst-job-tracker.jpg" width="370" ></a></p>
 More to be added soon!
