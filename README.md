@@ -45,6 +45,9 @@ More to be added soon!
 <!-- <img alt="GDP per capita Brazil x Portugal" src="https://raw.githubusercontent.com/rafabelokurows/gdp-studies/main/out/gdppercapPlot.png" width="265" height="200">
 <img alt="Histórico FC Porto x Benfica" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/PortoBenfica.png" width="265" height="200">
   <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200"> -->
+  
+<!-- ![zigzag](./images/map_flights_br_2.gif) -->
+<img src="./images/map_flights_br_2.gif"  width="492" height="400">
 <p float="left">
 <img alt="Map Variation Inflation from last year" width="510" height="245" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/map2.png">
 <img alt="Brazil endangered languages" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/Brazil%20endangered%20languages.jpg" width="315" height="245"></p>
