@@ -25,7 +25,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 ### Currently working on
 - MLOps
 - Creating model for predicting winners at MLB games
-- Portfolio overhaul  
+- ~~Portfolio overhaul~~  
 
 ---
 
@@ -48,6 +48,7 @@ More to be added soon!
   
 <!-- ![zigzag](./images/map_flights_br_2.gif) -->
 <img src="./images/map_flights_br_2.gif"  width="492" height="400">
+<img src="https://github.com/rafabelokurows/tuga-inflation-animation/blob/main/animation2.gif"  width="830" height="400">
 <p float="left">
 <img alt="Map Variation Inflation from last year" width="510" height="245" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/map2.png">
 <img alt="Brazil endangered languages" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/Brazil%20endangered%20languages.jpg" width="315" height="245"></p>
