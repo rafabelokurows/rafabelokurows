@@ -7,25 +7,26 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 
 ### Main Areas of Interest  
 🛒 Consumer trends, Market basket analysis, Customer Segmentation  
-📊 Product usability metrics, A/B tests  
+📊 Product usability metrics, A/B tests, improving product usage  
 💹 Time Series Analysis and Forecasting  
-🌎 Geographical Models, Transport and Urban Planning  
+🌎 Geospatial Analysis, Transport and Urban Planning  
 🌲 Envinroment, Climate Change, and Sustainability   
 <img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" /> Web scraping and process automation  
-🏈 Football, Baseball, Soccer  
+🏈 Football, Baseball, Soccer, and other sports  
 ⚖ ML interpretability with focus on fairness and equality
 
-### I'm also on
+### You can also reach me on
 [<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
 [<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
 [<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
 [<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
 
-### Currently working on
+### Currently working
+- Causal ML to explain effect of public policies
+- Anomaly detection
 - MLOps
 - Creating model for predicting winners at MLB games
-- ~~Portfolio overhaul~~  
 
 ---
 
