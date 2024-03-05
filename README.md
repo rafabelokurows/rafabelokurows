@@ -1,11 +1,17 @@
-I'm **Rafael Belokurows**, welcome to my Github profile! 😊
+I'm **Rafael Belokurows**, welcome to my Github profile! 😊  
 
-📈 Data Analyst at Kantar Worldpanel  
+[<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
+[<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
+[<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
+[<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
+[<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
+
+📈 Data Analytics and Data Science at Kantar Worldpanel  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />  
 🎓 Master's Degree in Data Science from Universidade do Porto - 2019 - 2021  
-🔧 R, SQL, Python, Excel, Power BI, Tableau  
-<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="12" width="20"/>  Brazil -> Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />   
 
-### Main Areas of Interest  
+<!--<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="12" width="20"/>  Brazil -> Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />   -->
+
+### Fields of Interest  
 🛒 Consumer trends, Market basket analysis, Customer Segmentation  
 📊 Product usability metrics, A/B tests, improving product usage  
 💹 Time Series Analysis and Forecasting  
@@ -15,28 +21,24 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 🏈 Football, Baseball, Soccer, and other sports  
 ⚖ ML interpretability with focus on fairness and equality
 
-### You can also reach me on
-[<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
-[<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
-[<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
-[<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
-[<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
+### Tools
+🔧 R, SQL, Python, Excel, Power BI, Tableau  
 
 ### Currently working
-- Causal ML to explain effect of public policies
+- Using local (and private) GPT
 - Anomaly detection
+- Causal ML to explain effect of public policies
 - MLOps
 - Creating model for predicting winners at MLB games
 
 ---
 
-### 🖥  Data Projects
+### 🖥  Latest Data Projects
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/rafabelokurows/porto-street-gender-bias/master/Gender%20Bias%20in%20Street%20Naming%20in%20Porto.pptx"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
 <a href="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/flight-explorer-cover.png" width="370" ></a></p>
 <p float="left"><a href="https://rafabelokurows.github.io/data-analyst-job-skills/" target="_blank" rel="noopener noreferrer"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/data-analyst-job-skills/main/data-analyst-job-tracker.jpg" width="370" ></a></p>
-More to be added soon!
 
 ---
 
