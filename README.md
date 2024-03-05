@@ -21,10 +21,14 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 🏈 Football, Baseball, Soccer, and other sports  
 ⚖ ML interpretability with focus on fairness and equality
 
-### Tools
-🔧 R, SQL, Python, Excel, Power BI, Tableau  
+### Tools 
+- R
+- SQL
+- Python
+- Power BI
+- Tableau  
 
-### Currently working
+### Currently working on
 - Using local (and private) GPT
 - Anomaly detection
 - Causal ML to explain effect of public policies
@@ -37,8 +41,8 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/rafabelokurows/porto-street-gender-bias/master/Gender%20Bias%20in%20Street%20Naming%20in%20Porto.pptx"><img alt="Gender bias in street naming in Porto Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows/main/images/thumbnail-gender-bias-street-naming.png" width="370" ></a>
-<a href="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/scraping-kayak/main/flight-explorer-cover.png" width="370" ></a></p>
-<p float="left"><a href="https://rafabelokurows.github.io/data-analyst-job-skills/" target="_blank" rel="noopener noreferrer"><img alt="Flight prices" src="https://raw.githubusercontent.com/rafabelokurows/data-analyst-job-skills/main/data-analyst-job-tracker.jpg" width="370" ></a></p>
+<a href="https://github.com/rafabelokurows/rafabelokurows/blob/main/images/Flight%20Explorer.pptx"><img alt="Flight prices" src="https://github.com/rafabelokurows/flight-explorer/blob/main/flight-explorer-cover.png" width="370" ></a></p>
+<p float="left"><a href="https://rafabelokurows.github.io/data-analyst-job-skills/" target="_blank" rel="noopener noreferrer"><img alt="Data Analyst Job Skills" src="https://raw.githubusercontent.com/rafabelokurows/data-analyst-job-skills/main/data-analyst-job-tracker.jpg" width="370" ></a></p>
 
 ---
 
@@ -50,6 +54,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
   <img alt="Dashboard State of education in Portugal" src="https://raw.githubusercontent.com/rafabelokurows/rafabelokurows.github.io/master/assets/images/Dashboard%20-%20State%20of%20education%20in%20Portugal.png"  width="290" height="200"> -->
   
 <!-- ![zigzag](./images/map_flights_br_2.gif) -->
+<img src="https://github.com/rafabelokurows/rafabelokurows/blob/main/images/time_series_explorer.png"  width="830" height="280">
 <img src="./images/map_flights_br_2.gif"  width="492" height="400">
 <img src="https://github.com/rafabelokurows/tuga-inflation-animation/blob/main/animation2.gif"  width="830" height="400">
 <p float="left">
@@ -68,7 +73,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
     <img alt="Inflation comparison over major US metro areas" src="https://raw.githubusercontent.com/rafabelokurows/inflation-comparison/main/plot2.png" height="404" width="550">
 </p> -->
 
-<div class='tableauPlaceholder' id='viz1664994817549' style='position: relative'><noscript><a href='#'><img alt=' Boston Crime Story 2022Statistics on crime ocurrences with open data obtained from https:&#47;&#47;data.boston.gov&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1_rss.png' width="828" style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BostonCrimeStory2022&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US'/></object></div>
+<!-- <div class='tableauPlaceholder' id='viz1664994817549' style='position: relative'><noscript><a href='#'><img alt=' Boston Crime Story 2022Statistics on crime ocurrences with open data obtained from https:&#47;&#47;data.boston.gov&#47; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1_rss.png' width="828" style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BostonCrimeStory2022&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonCrimeStory2022&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US'/></object></div>-->
 
 <!--   <img alt="Visualization NFL Google searches" height="300" width="480" src="https://miro.medium.com/max/2700/0*0o0N6Ml1UzJG6zEZ"/> -->
 <!--<p float="left">-->
