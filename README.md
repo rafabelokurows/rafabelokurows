@@ -6,8 +6,8 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 [<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
 [<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
 
-📈 Data Analytics and Data Science at Kantar Worldpanel  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />  
-🎓 Master's Degree in Data Science from Universidade do Porto - 2019 - 2021  
+📈 Data Analytics and Data Science @ Kantar Worldpanel <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />  
+🎓 Master's Degree in Data Science from Universidade do Porto (2019 - 2021)
 
 <!--<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="12" width="20"/>  Brazil -> Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />   -->
 
@@ -16,10 +16,10 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 📊 Product usability metrics, A/B tests, improving product usage  
 💹 Time Series Analysis and Forecasting  
 🌎 Geospatial Analysis, Transport and Urban Planning  
-🌲 Envinroment, Climate Change, and Sustainability   
 <img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" /> Web scraping and process automation  
+⚖ ML interpretability with focus on fairness and equality  
+🌲 Envinroment, Climate Change, and Sustainability   
 🏈 Football, Baseball, Soccer, and other sports  
-⚖ ML interpretability with focus on fairness and equality
 
 ### Tools 
 - R
@@ -29,7 +29,7 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 - Tableau  
 
 ### Currently working on
-- Using local (and private) GPT
+- Using local (private) GPT
 - Anomaly detection
 - Causal ML to explain effect of public policies
 - MLOps
