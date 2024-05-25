@@ -21,19 +21,19 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 🌲 Envinroment, Climate Change, and Sustainability   
 🏈 Football, Baseball, Soccer, and other sports  
 
+### Currently working on
+- Anomaly detection
+- Causal ML to explain effect of public policies
+- MLOps
+- Predicting winners of MLB games
+- Finding good bets on soccer corners
+
 ### Tools 
 - R
 - SQL
 - Python
 - Power BI
 - Tableau  
-
-### Currently working on
-- Using local (private) GPT
-- Anomaly detection
-- Causal ML to explain effect of public policies
-- MLOps
-- Creating model for predicting winners at MLB games
 
 ---
 
