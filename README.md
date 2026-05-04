@@ -3,11 +3,10 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 [<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
 [<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
-[<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
-[<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
 
-📈 Data Analytics and Data Science @ Kantar Worldpanel <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />  
+📈 Data Analytics and Data Science @ Primetag <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />  
 🎓 Master's Degree in Data Science from Universidade do Porto (2019 - 2021)
+Currently exploring: LLM engineering, RAG pipelines, agentic AI
 
 <!--<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/br.svg" height="12" width="20"/>  Brazil -> Porto, Portugal  <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/flags/4x3/pt.svg" height="12" width="20" />   -->
 
@@ -28,9 +27,9 @@ I'm **Rafael Belokurows**, welcome to my Github profile! 😊
 - Finding good bets on soccer corners
 
 ### Tools 
-- R
-- SQL
 - Python
+- SQL
+- R
 - Power BI
 - Tableau  
 
